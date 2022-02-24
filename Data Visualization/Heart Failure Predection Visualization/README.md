@@ -1,8 +1,8 @@
 # Data-Visualization
 ## Heart Failure Predection Visualization
-![plot](./Heart Failure Predection Visualization/assets/background.jpg) <br />
-* Data Visualization Project for Heart Failure Prediction Using Dash
+![plot](./assets/background.jpg) <br />
 
+* Data Visualization Project for Heart Failure Prediction Using Dash
 
 ### Requirements : 
 * Python
@@ -14,10 +14,10 @@
 
 
 ### Images from the project : 
-![plot](./Heart Failure Predection Visualization/assets/1.PNG)
-![plot](./Heart Failure Predection Visualization/assets/2.PNG)
-![plot](./Heart Failure Predection Visualization/assets/3.PNG)
-![plot](./Heart Failure Predection Visualization/assets/4.PNG)
+![plot](./assets/1.PNG)
+![plot](./assets/2.PNG)
+![plot](./assets/3.PNG)
+![plot](./assets/4.PNG)
 
 
 # Dataset :
