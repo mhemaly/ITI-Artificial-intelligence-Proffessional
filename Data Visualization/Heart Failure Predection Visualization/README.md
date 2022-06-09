@@ -22,3 +22,5 @@
 
 # Dataset :
 * https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+
+to run:http://127.0.0.1:8050/
